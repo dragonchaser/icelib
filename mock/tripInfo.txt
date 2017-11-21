@@ -1,0 +1,420 @@
+{
+  "tripDate": "2017-11-24",
+  "trainType": "ICE",
+  "vzn": "229",
+  "actualPosition": 391253,
+  "distanceFromLastStop": 35654,
+  "totalDistance": 632613,
+  "stopInfo": {
+    "scheduledNext": "8100014_00",
+    "actualNext": "8100014_00",
+    "actualLast": "8000298_00",
+    "actualLastStarted": "8100014",
+    "finalStationName": "Wien Hbf",
+    "finalStationEvaNr": "8103000_00"
+  },
+  "stops": [
+    {
+      "station": {
+        "evaNr": "8000105_00",
+        "name": "Frankfurt(Main)Hbf",
+        "geocoordinates": {
+          "latitude": 50.107145,
+          "longitude": 8.663789
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": null,
+        "actualArrivalTime": null,
+        "arrivalDelay": "",
+        "scheduledDepartureTime": 1511536440000,
+        "actualDepartureTime": 1511536500000,
+        "departureDelay": "+1"
+      },
+      "track": {
+        "scheduled": "20",
+        "actual": "20"
+      },
+      "info": {
+        "status": 0,
+        "passed": true,
+        "distance": 0,
+        "distanceFromStart": 0
+      },
+      "delayReasons": null
+    },
+    {
+      "station": {
+        "evaNr": "8000150_00",
+        "name": "Hanau Hbf",
+        "geocoordinates": {
+          "latitude": 50.120953,
+          "longitude": 8.929
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511537760000,
+        "actualArrivalTime": 1511538000000,
+        "arrivalDelay": "+4",
+        "scheduledDepartureTime": 1511537880000,
+        "actualDepartureTime": 1511538060000,
+        "departureDelay": "+3"
+      },
+      "track": {
+        "scheduled": "103",
+        "actual": "103"
+      },
+      "info": {
+        "status": 0,
+        "passed": true,
+        "distance": 18978,
+        "distanceFromStart": 18978
+      },
+      "delayReasons": null
+    },
+    {
+      "station": {
+        "evaNr": "8000010_00",
+        "name": "Aschaffenburg Hbf",
+        "geocoordinates": {
+          "latitude": 49.980557,
+          "longitude": 9.143697
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511538600000,
+        "actualArrivalTime": 1511538780000,
+        "arrivalDelay": "+3",
+        "scheduledDepartureTime": 1511538720000,
+        "actualDepartureTime": 1511538840000,
+        "departureDelay": "+2"
+      },
+      "track": {
+        "scheduled": "6",
+        "actual": "6"
+      },
+      "info": {
+        "status": 0,
+        "passed": true,
+        "distance": 21885,
+        "distanceFromStart": 40863
+      },
+      "delayReasons": null
+    },
+    {
+      "station": {
+        "evaNr": "8000260_00",
+        "name": "Würzburg Hbf",
+        "geocoordinates": {
+          "latitude": 49.801796,
+          "longitude": 9.93578
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511541060000,
+        "actualArrivalTime": 1511541060000,
+        "arrivalDelay": "",
+        "scheduledDepartureTime": 1511541180000,
+        "actualDepartureTime": 1511541300000,
+        "departureDelay": "+2"
+      },
+      "track": {
+        "scheduled": "2",
+        "actual": "2"
+      },
+      "info": {
+        "status": 0,
+        "passed": true,
+        "distance": 60139,
+        "distanceFromStart": 101002
+      },
+      "delayReasons": null
+    },
+    {
+      "station": {
+        "evaNr": "8000284_00",
+        "name": "Nürnberg Hbf",
+        "geocoordinates": {
+          "latitude": 49.445616,
+          "longitude": 11.082989
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511544420000,
+        "actualArrivalTime": 1511544420000,
+        "arrivalDelay": "",
+        "scheduledDepartureTime": 1511544600000,
+        "actualDepartureTime": 1511544600000,
+        "departureDelay": ""
+      },
+      "track": {
+        "scheduled": "12",
+        "actual": "12"
+      },
+      "info": {
+        "status": 0,
+        "passed": true,
+        "distance": 91662,
+        "distanceFromStart": 192664
+      },
+      "delayReasons": null
+    },
+    {
+      "station": {
+        "evaNr": "8000309_00",
+        "name": "Regensburg Hbf",
+        "geocoordinates": {
+          "latitude": 49.011672,
+          "longitude": 12.099617
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511547900000,
+        "actualArrivalTime": 1511547900000,
+        "arrivalDelay": "",
+        "scheduledDepartureTime": 1511548020000,
+        "actualDepartureTime": 1511548020000,
+        "departureDelay": ""
+      },
+      "track": {
+        "scheduled": "9",
+        "actual": "9"
+      },
+      "info": {
+        "status": 0,
+        "passed": true,
+        "distance": 88217,
+        "distanceFromStart": 280881
+      },
+      "delayReasons": null
+    },
+    {
+      "station": {
+        "evaNr": "8000301_00",
+        "name": "Plattling",
+        "geocoordinates": {
+          "latitude": 48.779619,
+          "longitude": 12.86394
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511549880000,
+        "actualArrivalTime": 1511549880000,
+        "arrivalDelay": "",
+        "scheduledDepartureTime": 1511550000000,
+        "actualDepartureTime": 1511550180000,
+        "departureDelay": "+3"
+      },
+      "track": {
+        "scheduled": "3",
+        "actual": "3"
+      },
+      "info": {
+        "status": 0,
+        "passed": true,
+        "distance": 61562,
+        "distanceFromStart": 342443
+      },
+      "delayReasons": null
+    },
+    {
+      "station": {
+        "evaNr": "8000298_00",
+        "name": "Passau Hbf",
+        "geocoordinates": {
+          "latitude": 48.573632,
+          "longitude": 13.450776
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511552040000,
+        "actualArrivalTime": 1511552040000,
+        "arrivalDelay": "",
+        "scheduledDepartureTime": 1511552400000,
+        "actualDepartureTime": 1511552400000,
+        "departureDelay": ""
+      },
+      "track": {
+        "scheduled": "5",
+        "actual": "5"
+      },
+      "info": {
+        "status": 0,
+        "passed": true,
+        "distance": 48810,
+        "distanceFromStart": 391253
+      },
+      "delayReasons": null
+    },
+    {
+      "station": {
+        "evaNr": "8100014_00",
+        "name": "Wels Hbf",
+        "geocoordinates": {
+          "latitude": 48.166078,
+          "longitude": 14.026569
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511555220000,
+        "actualArrivalTime": 1511555280000,
+        "arrivalDelay": "+1",
+        "scheduledDepartureTime": 1511555340000,
+        "actualDepartureTime": 1511555340000,
+        "departureDelay": ""
+      },
+      "track": {
+        "scheduled": "3",
+        "actual": "3"
+      },
+      "info": {
+        "status": 0,
+        "passed": false,
+        "distance": 62169,
+        "distanceFromStart": 453422
+      },
+      "delayReasons": [
+        {
+          "code": "21",
+          "text": "Warten auf Fahrgäste aus einem anderen Zug"
+        }
+      ]
+    },
+    {
+      "station": {
+        "evaNr": "8100013_00",
+        "name": "Linz Hbf",
+        "geocoordinates": {
+          "latitude": 48.290181,
+          "longitude": 14.292131
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511556180000,
+        "actualArrivalTime": 1511556240000,
+        "arrivalDelay": "+1",
+        "scheduledDepartureTime": 1511556420000,
+        "actualDepartureTime": 1511556420000,
+        "departureDelay": ""
+      },
+      "track": {
+        "scheduled": "-",
+        "actual": "7AC"
+      },
+      "info": {
+        "status": 0,
+        "passed": false,
+        "distance": 24036,
+        "distanceFromStart": 477458
+      },
+      "delayReasons": [
+        {
+          "code": "21",
+          "text": "Warten auf Fahrgäste aus einem anderen Zug"
+        }
+      ]
+    },
+    {
+      "station": {
+        "evaNr": "8100008_00",
+        "name": "St.Pölten Hbf",
+        "geocoordinates": {
+          "latitude": 48.208303,
+          "longitude": 15.624672
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511559420000,
+        "actualArrivalTime": 1511559480000,
+        "arrivalDelay": "+1",
+        "scheduledDepartureTime": 1511559540000,
+        "actualDepartureTime": 1511559540000,
+        "departureDelay": ""
+      },
+      "track": {
+        "scheduled": "3",
+        "actual": "3"
+      },
+      "info": {
+        "status": 0,
+        "passed": false,
+        "distance": 99112,
+        "distanceFromStart": 576570
+      },
+      "delayReasons": [
+        {
+          "code": "21",
+          "text": "Warten auf Fahrgäste aus einem anderen Zug"
+        }
+      ]
+    },
+    {
+      "station": {
+        "evaNr": "8100514_00",
+        "name": "Wien Meidling",
+        "geocoordinates": {
+          "latitude": 48.174449,
+          "longitude": 16.333088
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511560920000,
+        "actualArrivalTime": 1511560980000,
+        "arrivalDelay": "+1",
+        "scheduledDepartureTime": 1511561040000,
+        "actualDepartureTime": 1511561040000,
+        "departureDelay": ""
+      },
+      "track": {
+        "scheduled": "6",
+        "actual": "6"
+      },
+      "info": {
+        "status": 0,
+        "passed": false,
+        "distance": 52663,
+        "distanceFromStart": 629233
+      },
+      "delayReasons": [
+        {
+          "code": "21",
+          "text": "Warten auf Fahrgäste aus einem anderen Zug"
+        }
+      ]
+    },
+    {
+      "station": {
+        "evaNr": "8103000_00",
+        "name": "Wien Hbf",
+        "geocoordinates": {
+          "latitude": 48.184925,
+          "longitude": 16.375865
+        }
+      },
+      "timetable": {
+        "scheduledArrivalTime": 1511561340000,
+        "actualArrivalTime": 1511561460000,
+        "arrivalDelay": "+2",
+        "scheduledDepartureTime": null,
+        "actualDepartureTime": null,
+        "departureDelay": ""
+      },
+      "track": {
+        "scheduled": "11A-C",
+        "actual": "11A-C"
+      },
+      "info": {
+        "status": 0,
+        "passed": false,
+        "distance": 3380,
+        "distanceFromStart": 632613
+      },
+      "delayReasons": [
+        {
+          "code": "21",
+          "text": "Warten auf Fahrgäste aus einem anderen Zug"
+        }
+      ]
+    }
+  ]
+}

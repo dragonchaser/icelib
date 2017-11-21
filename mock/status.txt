@@ -1,0 +1,11 @@
+{
+  "connection": true,
+  "servicelevel": "AVAILABLE_SERVICE",
+  "speed": 31,
+  "gpsStatus": "VALID",
+  "latitude": 48.265316009521484,
+  "longitude": 13.662164688110352,
+  "serverTime": 1511554194410,
+  "wagonClass": "FIRST",
+  "navigationChange": "2017-11-24-03-02-25"
+}
