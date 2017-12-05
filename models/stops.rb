@@ -15,13 +15,15 @@ class Stops
   attr_reader :data
 
   def initialize(raw_data)
-    @raw_data = raw_data
-    @data = []
-    @raw_data.each do |r|
-      @data << StopObject.new(Station.new(r.station),
-                              Timetable.new(r.timetable),
-                              Track.new(r.track),
-                              Info.new(r.info))
+    if !raw_data.nil?
+      @raw_data = raw_data
+      @data = []
+      @raw_data.each do |r|
+        @data << StopObject.new(Station.new(r.station),
+                                Timetable.new(r.timetable),
+                                Track.new(r.track),
+                                Info.new(r.info))
+      end
     end
   end
 
